@@ -1,0 +1,56 @@
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\Bogda\Downloads\1\Новая папка (2)\Новая папка (7)\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.exe
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.pdb
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.pdb
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+D:\Учеба\2 семестр\КПЗ\Лаб 1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.exe
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.pdb
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.pdb
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+D:\Учеба\2 семестр\КПЗ\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Учеба\конструювання програмного забезпечення\Лаб 1 (С)\Лаб 1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
